@@ -1,5 +1,7 @@
 # Bubble sort using python
 
+# Changes in the bubble_sort.py files for understanding 
+
 print("Enter the list to be sorted separated by spaces")
 l = list(map(int, input().split()))
 
